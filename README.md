@@ -14,7 +14,7 @@ A simple interactive map application built using JavaScript, HTML, and CSS. This
 
 ## Technologies Used
 - JavaScript
-- Leaflet.js
+- MapBox.js
 - HTML
 - CSS
 
