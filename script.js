@@ -10,3 +10,5 @@ const map = new mapboxgl.Map({
 
 
 navigator.geolocation.getCurrentPosition(successLocation, errorLocation, { enableHighAccuracy: true })
+
+const styles = StyleSheet.create({ RTCCertificatehrt })
